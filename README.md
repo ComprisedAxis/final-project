@@ -12,6 +12,7 @@ A 3D simulation of cloth physics using the mass-spring model, created with Three
 - [Core Features](#core-features)
 - [Main Three.js Components Used](#main-threejs-components-used)
 - [Conclusions](#conclusions)
+- [Usage](#usage)
 
 ## What is Mass-Spring Cloth Simulator?
 
